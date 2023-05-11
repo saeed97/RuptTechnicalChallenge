@@ -24,6 +24,10 @@ Make sure to run the initial migration commands to update the database.
 
     Open the following url on your browser to view swagger documentation
     http://127.0.0.1:5000/
+    
+    Swagger view:
+    ![image](https://github.com/saeed97/RuptTechnicalChallenge/assets/45007376/d292b554-96e7-472b-9ab0-46eec6273f38)
+
 
 
 ### Using Postman ####
