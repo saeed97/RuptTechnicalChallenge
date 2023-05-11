@@ -26,8 +26,7 @@ Make sure to run the initial migration commands to update the database.
     http://127.0.0.1:5000/
     
     Swagger view:
-    ![image](https://github.com/saeed97/RuptTechnicalChallenge/assets/45007376/d292b554-96e7-472b-9ab0-46eec6273f38)
-
+![image](https://github.com/saeed97/RuptTechnicalChallenge/assets/45007376/214969a6-0b87-41d8-9865-4a3eb11a2939)
 
 
 ### Using Postman ####
